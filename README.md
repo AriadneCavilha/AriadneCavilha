@@ -11,7 +11,7 @@
 
 Software Engineer graduated from **UDESC**, with solid experience in Java backend development. Currently working as a **Mid-Level Developer at Mobuss Construção**, building and evolving systems with a focus on quality, clean code, and scalable solutions.
 
-I've worked across the full software lifecycle — from bug fixes and system integrations to complex feature development — always collaborating with multidisciplinary teams and contributing to technical documentation.
+I've worked across the full software lifecycle, from bug fixes and system integrations to complex feature development, always collaborating with multidisciplinary teams and contributing to technical documentation.
 
 I also developed an **AI-powered project applied to healthcare**, using SUS data to analyze and optimize wait queues, which gained recognition in the media. 🏥
 
